@@ -6,4 +6,4 @@ Here's some Markdown.
 
 <strong>Bold text using HTML</strong>
 
-<button>Click Me</button>
+<button>Click Me</button>?action=0
