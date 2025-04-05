@@ -1,26 +1,9 @@
-<details>
-<summary>Tab 1 - Click to open</summary>
+# My Page
 
-### Content for Tab 1
+Here's some Markdown.
 
-Here’s all the content under tab 1.
+<p>This is a paragraph in raw HTML.</p>
 
-</details>
+<strong>Bold text using HTML</strong>
 
-<details>
-<summary>Tab 2 - Click to open</summary>
-
-### Content for Tab 2
-
-Different content under this second section.
-
-</details>
-
-<details>
-<summary>Tab 3 - Click to open</summary>
-
-### Content for Tab 3
-
-Last tab’s content here.
-
-</details>
+<button>Click Me</button>
